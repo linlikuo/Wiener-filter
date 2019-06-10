@@ -6,7 +6,8 @@ This project includes wiener filter for denoise and wiener deconvolution for deb
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
-What things you need to install the software and how to install them.
+The following packages are needed for the project.
+
 > 1. matplotlib==3.0.2
 
 > 2. numpy==1.16.0
