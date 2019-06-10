@@ -2,7 +2,7 @@
 
 This project includes wiener filter for denoise and wiener deconvolution for deblur.
 ## Getting Started
----
+
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
